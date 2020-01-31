@@ -1,11 +1,12 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
     header { 
-
+      margin-bottom: 100px;
     }
     .navbar {
       float: right;
       padding: 30px;
+      font-family: Ralway;
     }
     .navbar, li { 
       list-style-type: none;
@@ -19,7 +20,4 @@
 
     li a:hover { 
       color: light grey;
-    }
-    header { 
-      url: ('/images/icon-email.svg')
     }
