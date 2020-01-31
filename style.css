@@ -11,3 +11,6 @@
       list-style-type: none;
       display: inline-block;
     }
+    li { 
+      padding 20px;
+    }
