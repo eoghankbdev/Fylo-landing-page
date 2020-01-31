@@ -10,3 +10,8 @@
       list-style-type: none;
       display: inline-block;
     }
+
+    li { 
+      float: right;
+      padding: 50px;
+    }
