@@ -3,7 +3,7 @@
     header { 
       margin-bottom: 100px;
     }
-    .navbar {
+    .navbar, li{
       border-bottom: 1px solid black;
+      list-style-type: none;
     }
-    
