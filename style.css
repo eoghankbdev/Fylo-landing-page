@@ -3,3 +3,6 @@
     header { 
       margin-bottom: 100px;
     }
+    nav li { 
+        float: right;
+    }
