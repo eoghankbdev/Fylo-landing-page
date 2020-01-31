@@ -12,9 +12,14 @@
       display: inline-block;
     }
     li { 
-      padding 20px;
+      padding: 40px;
+      text-decoration: none;
+      color: grey;
     }
 
+    li a:hover { 
+      color: light grey;
+    }
     header { 
       url: ('/images/icon-email.svg')
     }
