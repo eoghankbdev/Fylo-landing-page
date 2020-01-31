@@ -3,6 +3,10 @@
     body { 
       font-family: https://fonts.google.com/specimen/Raleway;
     }
+
+    header { 
+      margin-bottom: 100px;
+    }
   
     .navbar {
       float: right;
@@ -24,15 +28,12 @@
       color: light grey;
     }
 
-    .middle-container { 
-      margin-top: 100px;
-    } 
-
     .top-container { 
       margin-top: 500xp;
       text-align: left;
       width: 50%;
       max-width: 700px;
+      margin-left: 100px;
     }
 
     .bottom-container { 
@@ -40,6 +41,7 @@
       text-align: left;
       width: 50%;
       max-width: 700px;
+      margin-left: 100px;
     }
 
     .illustration-img { 
