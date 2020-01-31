@@ -32,6 +32,13 @@
       max-width: 800px;
     }
 
+    .bottom-container { 
+      margin: 100px auto;
+      text-align: right;
+      width: 50%;
+      max-width: 800px;
+    }
+
     .illustration-img { 
       float: right;
       width: 25%;
