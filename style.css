@@ -1,18 +1,17 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
     body { 
-      font-family: https://fonts.google.com/specimen/Raleway;
     }
 
     header { 
-      margin-bottom: 100px;
+      margin: auto auto;
     }
   
     .navbar {
+      margin: auto auto;
       float: right;
       padding: 30px;
       font-family: Ralway;
-      margin-bottom: 100px;
     }
     .navbar, li { 
       list-style-type: none;
