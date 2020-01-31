@@ -1,9 +1,12 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
     header { 
-      margin-bottom: 100px;
+
     }
-    .navbar, li{
+    .navbar {
       border-bottom: 1px solid black;
+    }
+    .navbar, li { 
       list-style-type: none;
+      display: inline-block;
     }
