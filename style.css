@@ -4,14 +4,10 @@
 
     }
     .navbar {
-      border-bottom: 1px solid black;
+      float: right;
+      padding: 30px;
     }
     .navbar, li { 
       list-style-type: none;
       display: inline-block;
-    }
-
-    li { 
-      float: right;
-      padding: 50px;
     }
