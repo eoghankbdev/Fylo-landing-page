@@ -52,25 +52,23 @@
 
     .footer-tinks, li{ 
       text-decoration: none;
+      color: white;
     }
 
     .top-container { 
       text-align: left;
       margin-top: 100px;
-      margin-left: 100px;
       font-size: larger;
       margin-bottom: 400px;
     }
 
     .mid-container { 
       text-align: left;
-      margin-left: 100px;
       font-size: larger;
     }
 
     .bottom-container { 
       text-align: left;
-      margin-left: 100px;
       font-size: larger;
       margin-top: 100px;
       background-color: hsl(238, 22%, 44%);
