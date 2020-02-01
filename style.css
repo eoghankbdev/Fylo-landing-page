@@ -77,3 +77,7 @@
       min-width: 150px;
       max-width: 215px;
     }
+
+    .main-content { 
+      text-align: center;
+    }
