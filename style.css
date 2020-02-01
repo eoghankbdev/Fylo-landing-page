@@ -9,18 +9,19 @@
       margin: auto;
       font-family: 'Raleway', sans-serif;
     }
-
-    h1 { 
-      font-family: 'Raleway', sans-serif;
-    }
     
     .btn { 
-      padding: 20px;
-      background-color: lightskyblue;
+      padding: 10px;
+      background-color: hsl(243, 87%, 12%);
+    }
+
+    .btn2 { 
+      padding: 10px;
+      background-color: hsl(238, 22%, 44%);
     }
     
     .text { 
-      padding: 20px;
+      padding: 10px;
     }
 
     .navbar {
