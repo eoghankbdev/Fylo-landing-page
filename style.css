@@ -42,18 +42,16 @@
 
     .navbar, li { 
       list-style-type: none;
-      color: hsl(0, 0%, 75%);
     }
 
     li { 
       padding: 40px;
       text-decoration: none;
-      color: grey;
       display: inline-block;
     }
 
     li a:hover { 
-      color: light grey;
+      color: ligh white;
     }
 
     .footer-tinks, li{ 
