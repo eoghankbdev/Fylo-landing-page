@@ -2,10 +2,16 @@
 .attribution a { color: hsl(228, 45%, 44%); }
     body { 
       text-align: center;
+      font-family: 'Open Sans', sans-serif;
     }
 
     header { 
       margin: auto;
+      font-family: 'Raleway', sans-serif;
+    }
+
+    h1 { 
+      font-family: 'Raleway', sans-serif;
     }
     
     .btn { 
