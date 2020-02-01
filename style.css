@@ -29,6 +29,14 @@
       padding: 10px;
     }
 
+    #btn2 { 
+      text-align: right;
+    }
+
+    #text2 { 
+      text-align: right;
+    }
+
     .navbar {
       padding: 30px;
       margin-bottom: 100px;
@@ -69,7 +77,7 @@
     }
 
     .bottom-container { 
-      text-align: left;
+      text-align: canter;
       font-size: larger;
       margin-top: 100px;
       background-color: hsl(238, 22%, 44%);
