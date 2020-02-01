@@ -44,9 +44,7 @@
     }
 
     .illustration-img { 
-      margin: auto;
-      width: 5w00px;
-      height: 500px;
+     
     }
 
     .top-container { 
@@ -70,6 +68,12 @@
       margin-top: 500px;
     }
 
-    
+    .illustration-img { 
+      float: right;
+      width: 25%;
+      margin-right: 30px;
+      min-width: 150px;
+      max-width: 215px;
+    }
 
    
