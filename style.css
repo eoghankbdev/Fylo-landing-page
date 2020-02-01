@@ -22,15 +22,12 @@
 
     .btn2 { 
       padding: 10px;
-      background-color: hsl(238, 22%, 44%);
+      background-color: lightskyblue;
+      text-align: right;
     }
     
     .text { 
       padding: 10px;
-    }
-
-    #btn2 { 
-      text-align: right;
     }
 
     #text2 { 
