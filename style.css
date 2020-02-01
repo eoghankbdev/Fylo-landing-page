@@ -4,23 +4,24 @@
     }
 
     header { 
-      margin: auto auto;
+      margin: auto;
     }
   
     .navbar {
-      margin: auto auto;
+      margin: auto;
       float: right;
       padding: 30px;
-      font-family: Ralway;
     }
+
     .navbar, li { 
       list-style-type: none;
-      display: inline-block;
     }
+
     li { 
       padding: 40px;
       text-decoration: none;
       color: grey;
+      display: inline-block;
     }
 
     li a:hover { 
