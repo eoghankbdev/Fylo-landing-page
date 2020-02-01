@@ -40,7 +40,6 @@
 
     .footer-tinks, li{ 
       text-decoration: none;
-      display: none;
     }
 
     .illustration-img { 
@@ -74,9 +73,5 @@
       margin-right: 30px;
       min-width: 150px;
       max-width: 215px;
-    }
-
-    #botom-nav { 
-      margin-top: 100px;
-    }
+    } 
    
