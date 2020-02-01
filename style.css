@@ -18,8 +18,9 @@
     }
 
     .navbar {
-      margin: auto;
       padding: 30px;
+      margin-bottom: 100px;
+
     }
 
     .navbar, li { 
