@@ -37,7 +37,7 @@
       color: light grey;
     }
 
-    .footer-tinks { 
+    .footer-tinks, li{ 
       text-decoration: none;
       display: none;
     }
