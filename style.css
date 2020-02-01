@@ -60,14 +60,14 @@
     }
 
     .top-container { 
-      text-align: center;
+      margin-left: 200px;
       margin-top: 100px;
       font-size: larger;
       margin-bottom: 400px;
     }
 
     .mid-container { 
-      text-align: center;
+      margin-left: 200;
       font-size: larger;
     }
 
