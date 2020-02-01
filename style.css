@@ -33,7 +33,7 @@
 
     .top-container { 
       text-align: left;
-      width: 50%;
+      width: 150%;
       max-width: 700px;
       margin-left: 100px;
     }
@@ -41,7 +41,7 @@
     .bottom-container { 
       margin-top: 500px;
       text-align: left;
-      width: 50%;
+      width: 150%;
       max-width: 700px;
       margin-left: 100px;
     }
