@@ -6,6 +6,10 @@
     header { 
       margin: auto;
     }
+
+    p { 
+
+    }
   
     .navbar {
       margin: auto;
@@ -27,11 +31,16 @@
       color: light grey;
     }
 
+    .illustration-img { 
+      width: 100%;
+    }
+
     .top-container { 
       text-align: left;
       max-width: 700px;
       margin-left: 100px;
       font-size: larger;
+      margin-bottom: 400px;
     }
 
     .mid-container { 
