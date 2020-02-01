@@ -1,7 +1,6 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); } 
     body { 
-      text-align: center;
       font-family: 'Open Sans', sans-serif;
       margin: auto;
     }
@@ -42,6 +41,7 @@
 
     .navbar, li { 
       list-style-type: none;
+      text-align: right;
     }
 
     li { 
