@@ -36,6 +36,11 @@
       color: light grey;
     }
 
+    .footer-tinks { 
+      text-decoration: none;
+      display: none;
+    }
+
     .illustration-img { 
       margin-right: 130px;
       width: 1000px;
