@@ -101,6 +101,6 @@
     } 
     
     .sign-up { 
-      float: right;
+      text-align: right;
       padding-right: 400;
     }
