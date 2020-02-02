@@ -65,9 +65,8 @@
       color: ligh white;
     }
 
-    .footer-tinks, li{ 
-      text-decoration: none;
-      color: white;
+    .main-container { 
+      margin-left: 100px; 
     }
 
     .top-container { 
@@ -90,7 +89,6 @@
 
     .illustration-img { 
       float: right;
-      min-width: 150px;
-      max-width: 215px;
+      width: 50%;
     } 
    
