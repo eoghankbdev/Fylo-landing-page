@@ -24,6 +24,9 @@
       text-align: center;
     }
 
+    a { 
+      text-decoration: none;
+    }
     .second-para { 
       padding-top: 20px;
       padding-bottom: 50px;
