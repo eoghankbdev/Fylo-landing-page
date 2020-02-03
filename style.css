@@ -41,7 +41,7 @@
 
     #logo {
       margin-top: 50px;
-      padding-left: 100px;
+      padding-left: 200px;
       float: left;
     }
 
@@ -75,6 +75,7 @@
       font-size: larger;
       margin-bottom: 400px;
       padding-left: 200px;
+      padding-right: 100px;
     }
 
     .mid-container { 
@@ -83,6 +84,7 @@
       font-size: larger;
       margin-bottom: 400px;
       padding-left: 200px;
+      padding-right: 100px;
     }
 
     .bottom-container { 
