@@ -20,6 +20,8 @@
       background-color: hsl(243, 87%, 12%);
       padding-top: 400px;
       scroll-padding-bottom: 400px;
+      text-decoration: none;
+      color: white;
     }
     
     .btn { 
