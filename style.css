@@ -24,6 +24,10 @@
       color: white;
     }
     
+    .footer-links, li { 
+      display: none;
+    }
+
     .btn { 
       padding: 10px;
       background-color: hsl(243, 87%, 12%);
