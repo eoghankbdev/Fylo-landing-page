@@ -23,7 +23,15 @@
       color: white;
       text-align: center;
     }
+
+    a { 
+      padding-top: 40px;
+    }
     
+    .second-para { 
+      padding-top: 20px;
+    }
+
     .footer-links, li { 
       color: white;
     }
