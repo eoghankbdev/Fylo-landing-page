@@ -28,9 +28,10 @@
       text-decoration: none;
       color: lightslategray;
     }
+
     a:hover { 
       color: green;
-      text-decoration: underline overline;
+      text-decoration: underline;
       padding-top: 10px;
       padding-bottom: 10px;
     }
@@ -40,7 +41,7 @@
     }
 
     .flylo { 
-      text-decoration: underline;
+      text-decoration: none;
       color: green;
     }
 
