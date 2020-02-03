@@ -30,9 +30,12 @@
     }
 
     .flylo { 
-      padding-bottom: 150px;
       text-decoration: underline;
       color: green;
+    }
+
+    .third-para { 
+      padding-top: 100px;
     }
 
     .btn { 
