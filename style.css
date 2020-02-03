@@ -24,16 +24,17 @@
       text-align: center;
     }
 
-    .flylo { 
-      padding-top: 40px;
-    }
-    
     .second-para { 
       padding-top: 20px;
+      padding-bottom: 50px;
     }
 
-    .footer-links, li { 
-      color: white;
+    .flylo { 
+      padding-bottom: 50px;
+    }
+
+    .card { 
+      border: solid 5px black;
     }
 
     .btn { 
