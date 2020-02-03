@@ -109,9 +109,10 @@
     .bottom-container { 
       color: white;
       font-size: larger;
+      margin-top: 100px;
       background-color: hsl(238, 22%, 44%);
       padding-bottom: 100px;
-  
+      padding-left: 100px;
     }
 
     .illustration-img { 
