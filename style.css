@@ -18,7 +18,7 @@
 
     footer {
       background-color: hsl(243, 87%, 12%);
-      padding: 400px;
+      padding: 200px;
       text-decoration: none;
       color: white;
       text-align: center;
@@ -83,10 +83,6 @@
 
     li a:hover { 
       color: ligh white;
-    }
-
-    .main-container { 
-      margin-left: 100px; 
     }
 
     .top-container { 
