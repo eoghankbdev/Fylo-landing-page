@@ -43,6 +43,7 @@
     .flylo { 
       text-decoration: none;
       color: green;
+      border-bottom: 2px solid currentColor;
     }
 
     .third-para { 
