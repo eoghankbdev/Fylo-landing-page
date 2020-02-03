@@ -31,6 +31,8 @@
     a:hover { 
       color: green;
       text-decoration: underline overline;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
     .second-para { 
       padding-top: 20px;
